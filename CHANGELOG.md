@@ -5,7 +5,7 @@ Changes by Version
 -------------------
 - Nothing yet.
 
-0.34.0 (2018-03-04)
+0.34.0 (2019-03-04)
 -------------------
 
 - exclude apache httpclient deps from libthrift ([#596](https://github.com/jaegertracing/jaeger-client-java/pull/596), [@t-8ch](https://github.com/t-8ch))
